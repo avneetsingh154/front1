@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:wght@200&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Azeret mono', monospace;
+    color: black;
+  }
+.bgm{
+    height: 100vh;
+    width: 100%;
+    background-color: burlywood;
+}

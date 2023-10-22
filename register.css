@@ -1,0 +1,72 @@
+.bigpage{
+    height: 720px;
+    width:100%;
+    background-image:url(1604.m00.i125.n014.S.c12.400488715\ Medical\ team.\ Hospital\ staff\ vector\ illustration.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+    text-align: justify;
+}
+.dataholder{
+    height: 462px;
+    width:44.44%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-bottom: 200px;
+    margin-left: 28.33%;
+    margin-right: 28.33%;
+    background-color: rgb(62, 90, 90);
+    box-shadow: 0px 0px 12px 6px;
+}
+.container {
+    padding: 16px;
+  }
+input[type=text], input[type=password] {
+    width: 90%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  /* Overwrite default styles of hr */
+hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+  }
+  
+  /* Set a style for the submit/register button */
+  .registerbtn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    transition: ease-out 0.5s;
+  }
+  
+  .registerbtn:hover {
+    box-shadow: inset 100em 0em rgb(7, 233, 90);
+  }
+  
+  /* Add a blue text color to links */
+  a {
+    color: dodgerblue;
+  }
+  
+  /* Set a grey background color and center the text of the "sign in" section */
+  .signin {
+    background-color: #f1f1f1;
+    text-align: center;
+  }
+  #headin{
+    text-align: center;
+    color:#4fd8a6;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
